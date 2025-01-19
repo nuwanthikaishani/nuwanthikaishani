@@ -4,7 +4,9 @@
   
   <img style="margin-left:auto; margin-right:auto;" src="assets/img//girl.png" width="200" height="200"/>
 
-  ` SENOIR SOFTWARE QUALITY ENGINEER | SELENIUM | PLAYWRIGHT | POSTMAN | JAVA | JS | PYTHON |  `
+  ` SENOIR SOFTWARE QUALITY ENGINEER | AUTOMATION | SELENIUM | PLAYWRIGHT | POSTMAN | JAVA | JS | PYTHON | REST ASSURED | JMETER`
+<br>
+  ` Blogging for Tech | QA education made accessible to the Sinhala speaking community `
 
   <p>Results-driven Senior Software Quality  Engineer with 5 years of experience in ensuring the delivery of high-quality software products.</p>
   
