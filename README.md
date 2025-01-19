@@ -1,6 +1,6 @@
 ## Hi there, Ishani Here👋
 
-<img style="margin-left:auto; margin-right:auto;" src="assets/img//girl.jpg" width="200" height="200"/>
+<img style="margin-left:auto; margin-right:auto;" src="assets/img//girl.png" width="200" height="200"/>
 
 ` SENOIR SOFTWARE QUALITY ENGINEER | SELENIUM | PLAYWRIGHT | POSTMAN | JAVA | JS | PYTHON |  `
 
