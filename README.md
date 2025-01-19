@@ -5,6 +5,8 @@
   <img style="margin-left:auto; margin-right:auto;" src="assets/img//girl.png" width="200" height="200"/>
 
   ` SENOIR SOFTWARE QUALITY ENGINEER | SELENIUM | PLAYWRIGHT | POSTMAN | JAVA | JS | PYTHON |  `
+
+  <p>Results-driven Senior Software Quality  Engineer with 5 years of experience in ensuring the delivery of high-quality software products.</p>
   
 </div>
 
