@@ -1,13 +1,16 @@
 ## Hi there, Ishani Here👋
 
 <div align=center>
-<img style="margin-left:auto; margin-right:auto;" src="assets/img//girl.png" width="200" height="200"/>
   
-</div>>
+  <img style="margin-left:auto; margin-right:auto;" src="assets/img//girl.png" width="200" height="200"/>
+
+  ` SENOIR SOFTWARE QUALITY ENGINEER | SELENIUM | PLAYWRIGHT | POSTMAN | JAVA | JS | PYTHON |  `
+  
+</div>
 
 
 
-` SENOIR SOFTWARE QUALITY ENGINEER | SELENIUM | PLAYWRIGHT | POSTMAN | JAVA | JS | PYTHON |  `
+
 
 
 
