@@ -1,5 +1,8 @@
 ## Hi there, Ishani Here👋
 
+<img src="assets/img//girl.jpg" width="200" height="200"/>
+
+
 <!--
 **nuwanthikaishani/nuwanthikaishani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
