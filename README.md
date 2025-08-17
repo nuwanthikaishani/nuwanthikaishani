@@ -20,7 +20,7 @@
 
 
 
-  <p>Results-driven Senior Software Quality  Engineer with 5 years of experience in ensuring the delivery of high-quality software products.</p>
+  <p>Results-driven Senior Software Quality  Engineer with 3.5+ years of experience in ensuring the delivery of high-quality software products.</p>
   
 </div>
 
